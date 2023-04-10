@@ -134,4 +134,38 @@ button {
   border: none;
   margin: 0.5rem 0;
 }
+
+@media (max-width: 500px) {
+  #content {
+    max-width: 100vw;
+  }
+
+  form {
+    width: 100%;
+  }
+
+  button {
+    width: 100%;
+  }
+
+  input {
+    width: 100%;
+  }
+
+  textarea {
+    width: 100%;
+  }
+
+  label {
+    width: 100%;
+  }
+
+  h1 {
+    font-size: 2rem;
+  }
+
+  #content p {
+    font-size: 0.75rem;
+  }
+}
 </style>

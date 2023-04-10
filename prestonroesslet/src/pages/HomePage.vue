@@ -76,4 +76,22 @@ h2 {
   padding: 0;
   line-height: 1;
 }
+
+@media screen and (max-width: 500px) {
+  #content {
+    max-width: 80vw;
+  }
+
+  h1 {
+    font-size: 3rem;
+  }
+
+  h2 {
+    font-size: 2rem;
+  }
+
+  p {
+    font-size: 0.8rem;
+  }
+}
 </style>
