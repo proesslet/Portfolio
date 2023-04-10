@@ -16,7 +16,7 @@ export default {
   },
   methods: {
     getImageUrl(fileName) {
-      return new URL("/images/" + fileName, import.meta.url);
+      return new URL("/src/assets/" + fileName, import.meta.url);
     },
   },
   mounted() {},
