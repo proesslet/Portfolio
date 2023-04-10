@@ -33,6 +33,9 @@
 
 <script>
 export default {
+  title() {
+    return "Contact | Preston Roesslet";
+  },
   name: "ContactPage",
   data() {
     return {};

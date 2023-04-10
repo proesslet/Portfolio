@@ -17,6 +17,9 @@
 
 <script>
 export default {
+  title() {
+    return "Preston Roesslet";
+  },
   name: "HomePage",
   data() {
     return {};

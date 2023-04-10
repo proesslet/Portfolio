@@ -88,6 +88,9 @@
 
 <script>
 export default {
+  title() {
+    return "About | Preston Roesslet";
+  },
   name: "AboutPage",
   data() {
     return {};
