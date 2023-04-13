@@ -3,7 +3,7 @@
     <h1>{{ title }}</h1>
     <p>{{ description }}</p>
     <a :href="link" target="_blank">View Project</a>
-    <img :src="getImageUrl(image)" alt="project image" />
+    <img :src="getImageUrl(image)" />
   </div>
 </template>
 
@@ -30,7 +30,6 @@ export default {
   justify-content: space-between;
   border-radius: 0.5rem;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  overflow: hidden;
   transition: all 0.3s;
   width: 100%;
   max-width: 30rem;
