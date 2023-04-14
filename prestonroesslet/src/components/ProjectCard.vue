@@ -3,7 +3,8 @@
     <h1>{{ title }}</h1>
     <p>{{ description }}</p>
     <a :href="link" target="_blank">View Project</a>
-    <img :src="getImageUrl(image)" alt="project image" />
+    <!-- Images show up in dev enviroment, but not in production -->
+    <!-- <img :src="getImageUrl(image)" alt="project image" /> -->
   </div>
 </template>
 
