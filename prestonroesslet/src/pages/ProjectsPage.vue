@@ -40,6 +40,14 @@ export default {
           image: "owl_logo.png",
           link: "https://owl.ou.edu",
         },
+        {
+          title:
+            "Cooperative Institute for Severe and High-Impact Weather Research and Operations",
+          description:
+            "The website for CIWRO was built using PHP and Javascript along with custom CSS. It utilizes a MariaDB database to store and retrieve data. The public facing website features news articles as well as a table of all employees. The internal website features user management including profile editing and an admin page.",
+          image: "ciwro_logo.jpeg",
+          link: "https://ciwro.ou.edu/",
+        },
       ],
     };
   },
