@@ -4,7 +4,7 @@
     <p>{{ description }}</p>
     <a :href="link" target="_blank">View Project</a>
     <!-- Images show up in dev enviroment, but not in production -->
-    <!-- <img :src="getImageUrl(image)" alt="project image" /> -->
+    <img :src="getImageUrl(image)" alt="project image" />
   </div>
 </template>
 
@@ -17,7 +17,7 @@ export default {
   },
   methods: {
     getImageUrl(fileName) {
-      return new URL("../assets/" + fileName, import.meta.url);
+      return new URL(`../assets/${fileName}`, import.meta.url).href;
     },
   },
   mounted() {},
