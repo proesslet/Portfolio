@@ -3,8 +3,12 @@
     <h1>{{ title }}</h1>
     <p>{{ description }}</p>
     <a :href="link" target="_blank">View Project</a>
+<<<<<<< HEAD
     <!-- Images show up in dev enviroment, but not in production -->
     <!-- <img :src="getImageUrl(image)" alt="project image" /> -->
+=======
+    <img :src="getImageUrl(image)" />
+>>>>>>> 70497bc839ff0b52c42597759ef49ece77bf13f7
   </div>
 </template>
 
@@ -17,7 +21,7 @@ export default {
   },
   methods: {
     getImageUrl(fileName) {
-      return new URL("/src/assets/" + fileName, import.meta.url).href;
+      return new URL("../assets/" + fileName, import.meta.url);
     },
   },
   mounted() {},
@@ -31,7 +35,6 @@ export default {
   justify-content: space-between;
   border-radius: 0.5rem;
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  overflow: hidden;
   transition: all 0.3s;
   width: 100%;
   max-width: 30rem;
