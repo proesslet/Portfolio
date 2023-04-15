@@ -90,8 +90,9 @@ p {
   }
 
   h1 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     padding-bottom: 0.5rem;
+    margin: 1rem auto;
   }
   p {
     font-size: 0.75rem;

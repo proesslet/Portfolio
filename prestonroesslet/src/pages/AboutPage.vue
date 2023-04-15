@@ -1,8 +1,8 @@
 <template>
   <div id="about">
-    <h1>About Me!</h1>
     <div id="main">
       <section id="content">
+        <h1>About Me!</h1>
         <p>
           Hey there, I'm Preston! I'm a Computer Science student at the
           University of oklahoma. I started out my academic career as a
@@ -130,8 +130,9 @@ export default {
 }
 
 #profile-pic {
-  width: 100%;
+  width: 90%;
   border-radius: 50%;
+  margin: 0 auto;
 }
 
 #sidebar ul {
@@ -150,15 +151,18 @@ export default {
 
 @media screen and (max-width: 500px) {
   #main {
-    flex-direction: column;
+    flex-direction: column-reverse;
   }
 
   #content {
     width: 100%;
+    text-align: center;
   }
 
   #sidebar {
     width: 100%;
+    margin: 1rem auto;
+    padding: 1rem;
   }
 }
 </style>
