@@ -48,6 +48,17 @@
           that will help me learn and grow as a developer, so feel free to reach
           out!
         </p>
+
+        <p>
+          Outside of programming, my passion for meteorology still exists. I
+          storm chase every chance I get and I love just looking at weather -
+          particularly severe weather events. I would love to someday combine my
+          passion for weather with my love of programming and help develop tools
+          that could be used to save lives during severe weather events. I'm
+          also an amateur radio operator and I enjoy being outdoors whether it
+          be camping, hiking, or just sitting on the back deck with a cold
+          drink.
+        </p>
       </section>
 
       <section id="sidebar">
