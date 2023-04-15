@@ -4,55 +4,49 @@
     <div id="main">
       <section id="content">
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sodales
-          accumsan facilisis. Quisque vel consequat neque. Nulla ac malesuada
-          turpis. Nulla ac mi sit amet quam consectetur elementum ut vitae diam.
-          Quisque semper augue fermentum nunc blandit vestibulum. Etiam aliquam
-          facilisis placerat. Pellentesque in purus id turpis commodo pharetra.
-          Maecenas cursus ultricies viverra. Ut pharetra tortor mauris, id
-          congue purus gravida quis. Nunc convallis non massa ut aliquam. Lorem
-          ipsum dolor sit amet, consectetur adipiscing elit. Mauris fringilla
-          neque non odio sollicitudin consequat.
+          Hey there, I'm Preston! I'm a Computer Science student at the
+          University of oklahoma. I started out my academic career as a
+          meteorology major with a minor in computer science, but as I took more
+          and more computer science classes, I realized that I enjoyed it much
+          more than meteorology. I love the aspect of problem solving and
+          building tangible things that can be used by others.
         </p>
 
         <p>
-          Praesent sollicitudin cursus purus, et pellentesque nibh mattis non.
-          Pellentesque habitant morbi tristique senectus et netus et malesuada
-          fames ac turpis egestas. Pellentesque habitant morbi tristique
-          senectus et netus et malesuada fames ac turpis egestas. Phasellus
-          pulvinar, felis et rhoncus eleifend, diam massa pharetra massa, sit
-          amet condimentum enim dolor varius nibh. Maecenas pharetra ultricies
-          scelerisque. Donec quis ultricies ex. Aliquam non lacus eros. Fusce
-          sapien ipsum, gravida a eleifend fermentum, tempus quis risus. Aliquam
-          erat volutpat. Nulla massa nunc, fringilla suscipit metus id, dictum
-          posuere ante. Sed vitae mattis sapien.
+          I am currently a Full-Stack Web Developer at the Cooperative Institute
+          for Severe and High-Impact Weather Research and Operations (CIWRO).
+          During my time at CIWRO, I have developed a new internal website for
+          employees which includes a user management feature where users can
+          edit their public profile and administrators can manage all users. I
+          have also worked on redesigning the public facing website and making
+          it a little bit more streamlined and efficient for users. Through this
+          job, I have gained better experience with PHP and Javascript, as well
+          as some UI design skills.
         </p>
 
         <p>
-          Aliquam lacus felis, efficitur eget dapibus et, auctor id felis.
-          Nullam elementum faucibus risus vitae sollicitudin. Duis malesuada
-          nibh a mauris imperdiet placerat. Nunc sagittis ultricies est, non
-          fringilla risus. Donec ullamcorper orci sit amet elit gravida
-          hendrerit. In maximus, ante a fermentum fermentum, libero lorem congue
-          dui, ut condimentum lorem quam a nibh. Sed sit amet consectetur orci.
-          Ut venenatis urna orci, eget feugiat eros maximus vitae. Praesent
-          finibus diam in dui ornare pellentesque. Nunc eget pretium orci. Donec
-          in erat sed ligula elementum sodales. Ut hendrerit ipsum eget lorem
-          ornare ultricies. Aliquam rhoncus lobortis erat vitae molestie.
+          I am also heavily involved with the Development Branch of the Oklahoma
+          Weather Lab (OWL). I have been the Deputy Director of Development, and
+          I am currently the Director of Development. Through this role, I have
+          led many projects including a major overhaul of OWL's website, as well
+          as developing new features such as a text forecast submission system
+          and shift attendance tracking. Thes projects relied heavily on PHP and
+          a MySQL database. Through this role I have also been responsible for
+          keeping a list of active OWL members. I have utilized the attendance
+          tracking feature in order to manage this list and effectivley
+          communicated with members whether they are active or not.
         </p>
 
         <p>
-          Suspendisse in ante lectus. Maecenas eget eros hendrerit, egestas arcu
-          in, pellentesque nisi. Donec risus diam, ultricies tincidunt maximus
-          consequat, semper vitae tortor. Proin vitae enim a velit bibendum
-          pellentesque. Vivamus consectetur elit sit amet commodo laoreet.
-          Vivamus et dignissim dolor. Pellentesque iaculis enim et nulla congue
-          dignissim. Ut orci felis, vulputate sollicitudin nisl eget, semper
-          varius urna. Vivamus sit amet fermentum velit. Donec congue sagittis
-          tellus, quis pretium nunc tincidunt id. Fusce at turpis bibendum,
-          aliquam eros ac, scelerisque lorem. Nullam ultricies in sapien a
-          efficitur. Orci varius natoque penatibus et magnis dis parturient
-          montes, nascetur ridiculus mus. Vestibulum eu massa erat.
+          My current interests are those within the realm of full-stack
+          development including, but not limited to, front-end frameworks such
+          as Vue.js and React, back-end development with Node.js and Java
+          Springboot, and also user interaction. I love being able to work on
+          projects that can be utilized by other and improve their daily lives.
+          I am also very interested in machine learning and AI, though I have
+          not had much experience with it yet. I am always open to new projects
+          that will help me learn and grow as a developer, so feel free to reach
+          out!
         </p>
       </section>
 
