@@ -31,7 +31,7 @@ export default {
           title: "Preston Roesslet",
           description: "This website!",
           image: "logo.png",
-          link: "https://prestonroesslet.com",
+          link: "https://github.com/proesslet/Portfolio",
         },
         {
           title: "Oklahoma Weather Lab",
