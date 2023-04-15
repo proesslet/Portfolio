@@ -42,7 +42,7 @@
           development including, but not limited to, front-end frameworks such
           as Vue.js and React, back-end development with Node.js and Java
           Springboot, and also user interaction. I love being able to work on
-          projects that can be utilized by other and improve their daily lives.
+          projects that can be utilized by others and improve their daily lives.
           I am also very interested in machine learning and AI, though I have
           not had much experience with it yet. I am always open to new projects
           that will help me learn and grow as a developer, so feel free to reach
