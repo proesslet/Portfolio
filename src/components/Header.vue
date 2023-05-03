@@ -19,6 +19,9 @@
         <li>
           <router-link to="/contact">Contact</router-link>
         </li>
+        <li>
+          <router-link to="/generationalai">Generational AI</router-link>
+        </li>
       </ul>
     </nav>
 
