@@ -5,6 +5,7 @@ import AboutPage from "../pages/AboutPage.vue";
 import ContactPage from "../pages/ContactPage.vue";
 import ProjectsPage from "../pages/ProjectsPage.vue";
 import PageNotFound from "../pages/PageNotFound.vue";
+import GenerationalAiPage from "../pages/GenerationalAiPage.vue";
 
 const history = createWebHistory();
 const routes = [
@@ -23,6 +24,10 @@ const routes = [
   {
     path: "/projects",
     component: ProjectsPage,
+  },
+  {
+    path: "/generationalai",
+    component: GenerationalAiPage,
   },
   {
     path: "/:pathMatch(.*)*",
