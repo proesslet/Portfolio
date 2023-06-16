@@ -36,7 +36,7 @@ export default {
         {
           title: "Oklahoma Weather Lab",
           description:
-            "The website for the Oklahoma Weather Lab was built using PHP and Bootstrap along with some custom CSS. It utilizes a MySQL database to store and retrieve data. Some features include user management, shift attendance tracking, and a text forecast submission system.",
+            "The website for the Oklahoma Weather Lab was built using PHP and Bootstrap along with some custom CSS. It utilizes a MySQL database to store data. Some features include user management, shift attendance tracking, and a text forecast submission system. As of May, 2021, the I am currently refactoring the website using Vue3 and Node.JS to enhance some of the current features, and make way for new features such as a polygon based forecast system, a point forecast system, and a forecast competition! This version is not live yet, though it will be coming very soon!",
           image: "owl_logo.png",
           link: "https://owl.ou.edu",
         },
@@ -44,7 +44,7 @@ export default {
           title:
             "Cooperative Institute for Severe and High-Impact Weather Research and Operations",
           description:
-            "The website for CIWRO was built using PHP and Javascript along with custom CSS. It utilizes a MariaDB database to store and retrieve data. The public facing website features news articles as well as a table of all employees. The internal website features user management including profile editing and an admin page.",
+            "The website for CIWRO was built using PHP and Javascript along with custom CSS. It utilizes a MariaDB database to store data. The public facing website features a news article system, live job postings, as well as a directory of all employees. For the internal website, I built an employee management system, which includes profile editing and deletion, permission levels, and an admin page. The internal website also has a well organized layout for accessing internal documents.",
           image: "ciwro_logo.jpeg",
           link: "https://ciwro.ou.edu/",
         },
