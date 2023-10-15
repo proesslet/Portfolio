@@ -1,17 +1,22 @@
 <template>
-  <div id="home">
-    <section id="content">
-      <h1>Hi,</h1>
-      <h1>I'm Preston,</h1>
-      <h2>Full Stack Developer</h2>
-      <p>
-        I'm a student at the University of Oklahoma pursuing a B.S in Computer
-        Science. I am passionate about building software that makes a positive
-        impact on people's lives. I have experience working with a variety of
-        technologies, including PHP, Java, and Python. I am currently learning
-        Vue.JS and Node.JS.
-      </p>
-    </section>
+  <div class="container-fluid" id="home">
+    <div
+      class="row d-flex justify-content-center align-content-center"
+      id="content"
+    >
+      <div class="col-12 d-flex flex-column m-auto">
+        <h1>Hi,</h1>
+        <h1>I'm Preston,</h1>
+        <h2>Full Stack Developer</h2>
+        <p>
+          I'm a student at the University of Oklahoma pursuing a B.S in Computer
+          Science. I am passionate about building software that makes a positive
+          impact on people's lives. I have experience working with a variety of
+          technologies, including PHP, Java, and Python. I am currently learning
+          Vue.JS and Node.JS.
+        </p>
+      </div>
+    </div>
   </div>
 </template>
 
@@ -31,6 +36,7 @@ export default {
 
 <style scoped>
 #home {
+  color: var(--color-text);
   background: hsla(5, 82%, 32%, 1);
   background: radial-gradient(
     circle,
